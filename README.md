@@ -48,6 +48,7 @@
   - 2020 - 2021: Relly.me: CTO. Team management: One frontend Junior Developer (ReactNative, NodeJS)(Office), One backend middle developer(NodeJS)(office), One hardware engineer (MCUs, C++, PlatformIO), One plastic case assembly and packaging, One 3D parts designer (Hardware, Circuits), One Graphic/Motion Designer(remote).
 
 - ✈️  **My visited countries list:** USA, UAE, Qatar, Korea, China, Egypt, Turkey, Greece, Cyprus, Italy, Spain, Netherlands, Germany, Russia, Thailand, Cambodia, Vietnam, Indonesia, India, Dominican Republic, Malaysia, Singapore.
+- 🛵  **Hobby:** While I'm not coding or assembling something new all in wires, I like 🚴‍♂️ cycling, 🏄‍♂️ surfing (thanks to Bali) and 🏂 snowboarding (very rare if to be honest).
 - 🙋🏻‍♂️ **You can meet me (saw me) at meetups:** (USA) Github Universe (2015, 2016, 2018), Google I/O (2016), TechCrunch Disrupt (2016), Twitter HQ San Francisco Machine Learning meetups (2018), Uber HQ San Francisco Meetups (2016). (Ukraine) Ruby On Rails meetup at Fabrika.space (2019), JS devils at Fabrika.space (2019).
 
 ### Connect with me:
