@@ -36,7 +36,7 @@
   - **Linux Centos, Debian, Ubuntu:** Bash, ssh, vim, httpd, nginx, iptables, and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
 
 - 🥱 **I don't like:** Svelte (terrible experience in production),  Java (terrible old one), C# (MSFT is evil), people that don't love what they do.
-- 📫 **How to reach me:** geekmaks@gmail.com, twitter.com/geek_maks
+- 📫 **How to reach me:** geekmaks@gmail.com, [Twitter](https://twitter.com/geek_maks), [Telegram](https://t.me/Zaratustrik)
 - 🧑‍🎓 **Educations:** National Law University of Ukraine - Master Degree **Lawyer** (Intellectual property, Court), Treehouse PHP and JS courses, Kharkiv National University of Radio Electronics (Ukraine) - Master Degree **Software Engineer**
 - 🤠 **Work timeline:**
   - 2002 - 2006: Kharkiv Information System: WebDeveloper, made a big bunch of websites using PHP+MySQL+Jquery.
@@ -48,13 +48,14 @@
   - 2020 - 2021: Relly.me: CTO. Team management: One frontend Junior Developer (ReactNative, NodeJS)(Office), One backend middle developer(NodeJS)(office), One hardware engineer (MCUs, C++, PlatformIO), One plastic case assembly and packaging, One 3D parts designer (Hardware, Circuits), One Graphic/Motion Designer(remote).
 
 - ✈️  **My visited countries list:** USA, UAE, Qatar, Korea, China, Egypt, Turkey, Greece, Cyprus, Italy, Spain, Netherlands, Germany, Russia, Thailand, Cambodia, Vietnam, Indonesia, India, Dominican Republic, Malaysia, Singapore.
-- 🛵  **Hobby:** While I'm not coding or assembling something new all in wires, I like 🚴‍♂️ cycling, 🏄‍♂️ surfing (thanks to Bali) and 🏂 snowboarding (very rare if to be honest).
+- 🛵  **Hobby:** While I'm not coding or assembling something new all in wires, I like 🚴‍♂️ cycling, 🏄‍♂️ surfing (thanks to Bali) and 🏂 snowboarding (very rare if to be honest, I prefer the sun).
 - 🙋🏻‍♂️ **You can meet me (saw me) at meetups:** (USA) Github Universe (2015, 2016, 2018), Google I/O (2016), TechCrunch Disrupt (2016), Twitter HQ San Francisco Machine Learning meetups (2018), Uber HQ San Francisco Meetups (2016). (Ukraine) Ruby On Rails meetup at Fabrika.space (2019), JS devils at Fabrika.space (2019).
 
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/geek_maks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="geek_maks" height="30" width="40" /></a>
 <a href="https://geekmaks.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="geek_maks" height="30" width="40" /></a>
- <a href="https://www.instagram.com/maxikovmaxik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geek_maks" height="30" width="40" /></a>
+<a href="https://t.me/Zaratustrik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="geek_maks" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maxikovmaxik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geek_maks" height="30" width="40" /></a>
 </p>
 <img src="https://raw.githubusercontent.com/geekbrother/geekbrother/main/thatsme.jpg" width="100%"/>
