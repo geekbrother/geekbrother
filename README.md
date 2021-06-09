@@ -37,7 +37,7 @@
 
 - 🥱 **I don't like:** Svelte (terrible experience in production),  Java (terrible old one), C# (MSFT is evil), people that don't love what they do.
 - 📫 **How to reach me:** geekmaks@gmail.com, twitter.com/geek_maks
-- 🧑‍🎓 **Educations:** National Law University Ukraine - **Lawyer** (Intellectual property, Court), Treehouse PHP and JS courses, Kharkiv National University of Radio Electronics - **Software Engineer**
+- 🧑‍🎓 **Educations:** National Law University of Ukraine - Master Degree **Lawyer** (Intellectual property, Court), Treehouse PHP and JS courses, Kharkiv National University of Radio Electronics (Ukraine) - Master Degree **Software Engineer**
 - 🤠 **Work timeline:**
   - 2002 - 2006: Kharkiv Information System: WebDeveloper, made a big bunch of websites using PHP+MySQL+Jquery.
   - 2006 - 2009: Webspace.com.ua: WebDeveloper + Linux Administrator (Part-time).
