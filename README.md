@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on https://github.com/rellydev
 - 👾 Mostly commit to my team https://github.com/geeksteam
+- 👨‍💻 Sometimes write for Frontend Weekly on [Medium](https://geekmaks.medium.com/).
 - ⚡ **Fun fact:** I've started my way from Delphi 😄  in 2001 year (Bet you don't know what the language is) and made websites when PHP was at version 3 🗿
 - 🙌🏻 **What I've made:** 
   - **VDS64** Hosting Platform Administration for virtual containers OpenVZ (UI JQuery + Bootstrap, Never version uses Vue, API REST, Backend PHP and HHVM + Python + Bash scripts, DB MySQL). 🟢 Running
@@ -52,5 +53,6 @@
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/geek_maks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="geek_maks" height="30" width="40" /></a>
+<a href="https://geekmaks.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="geek_maks" height="30" width="40" /></a>
 </p>
 <img src="https://raw.githubusercontent.com/geekbrother/geekbrother/main/thatsme.jpg" width="100%"/>
