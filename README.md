@@ -55,5 +55,6 @@
 <p align="left">
 <a href="https://twitter.com/geek_maks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="geek_maks" height="30" width="40" /></a>
 <a href="https://geekmaks.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="geek_maks" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/maxikovmaxik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geek_maks" height="30" width="40" /></a>
 </p>
 <img src="https://raw.githubusercontent.com/geekbrother/geekbrother/main/thatsme.jpg" width="100%"/>
