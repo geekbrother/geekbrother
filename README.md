@@ -39,14 +39,15 @@
 - 🧑‍🎓 **Educations:** National Law University Ukraine - **Lawyer** (Intellectual property, Court), Treehouse PHP and JS courses, Kharkiv National University of Radio Electronics - **Software Engineer**
 - 🤠 **Work timeline:**
   - 2002 - 2006: Kharkiv Information System: WebDeveloper, made a big bunch of websites using PHP+MySQL+Jquery.
-  - 2006 - 2009: Webspace.com.ua: WebDeveloper + Linux Administrator.
+  - 2006 - 2009: Webspace.com.ua: WebDeveloper + Linux Administrator (Part-time).
+  - 2007 - 2009: Arbitrage court of Kharkiv District (Ukraine). Judge assitant. Intellectual property, Business litigations.
   - 2010 - 2019: VDS64.com: CTO. Administration system development and maintenance. Cloud control software development and hardware integration. Own cloud expansion to three countries (Ukraine, Germany, Russia). Team management (all remote): Two frontends Junior Developers, One backend Junior Developer, One server hardware engineer, support team: Four Linux system administrators 24x7 operation.
   - 2015 - 2017: ServerPanel.io: Team Lead, One of investor. Team management: One frontend Middle Developer (Angular, React)(Office), One frontend junior Developer (React)(Office), One backend middle developer (Golang, Python, DevOps)(Remote), One backend junior developer (Golang)(Office).
   - 2017 - 2019: NashDom.app: Team Lead, One of investors. Team management: One frontend Junior Developer (ReactNative)(Office), One backend middle developer(NodeJS)(office), One Graphic/UI/Motion Designer(Remote), One hardware engineer (MCUs, C++).
   - 2020 - 2021: Relly.me: CTO. Team management: One frontend Junior Developer (ReactNative, NodeJS)(Office), One backend middle developer(NodeJS)(office), One hardware engineer (MCUs, C++, PlatformIO), One plastic case assembly and packaging, One 3D parts designer (Hardware, Circuits), One Graphic/Motion Designer(remote).
 
 - ✈️  **My visited countries list:** USA, UAE, Qatar, Korea, China, Egypt, Turkey, Greece, Cyprus, Italy, Spain, Netherlands, Germany, Russia, Thailand, Cambodia, Vietnam, Indonesia, India, Dominican Republic, Malaysia, Singapore.
-- 🙋🏻‍♂️ **You can meet me (saw me) at meetups:** (USA) Github Universe (2015, 2016, 2018), Google I/O (2016), TechCrunch Disrupt (2016), Twitter HQ San Francisco Machine Learning meetups (2018), Uber HQ San Francisco Meetups (2016).
+- 🙋🏻‍♂️ **You can meet me (saw me) at meetups:** (USA) Github Universe (2015, 2016, 2018), Google I/O (2016), TechCrunch Disrupt (2016), Twitter HQ San Francisco Machine Learning meetups (2018), Uber HQ San Francisco Meetups (2016). (Ukraine) Ruby On Rails meetup at Fabrika.space (2019), JS devils at Fabrika.space (2019).
 
 ### Connect with me:
 <p align="left">
