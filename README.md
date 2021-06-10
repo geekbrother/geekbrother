@@ -22,7 +22,7 @@
     - User Mobile IOS and Android App (ReactNative/Expo, API GraphQL).
     - Backend based on NodeJS service with Cloudflare workers and KV storage. Database MongoDB for user data using Realm.io and TimeScaleDB for logging and analytics. MQ RabbitMQ.
 
-- 🌱 **I’m currently learning/working with:** C++20, **JS**(you must learn it all the time), **TypeScript 4**, **React**, MCU programming (platformIO, C, C++) and a bunch of other things include Chinese 🤠
+- 🌱 **I’m currently learning/working with:** Solidity and OpenZeppelin(wierd but its work), C++20, **JS**(you must learn it all the time), **TypeScript 4**, **React**, MCU programming (platformIO, C, C++) and a bunch of other things include Chinese 🤠
 - 👯 I’m looking to collaborate on cool projects in the cloud, iot or crypto sphere.
 
 - 💬 **Ask me about:** 
