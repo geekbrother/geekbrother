@@ -34,6 +34,7 @@
   - **APIs:** REST, GraphQL (Apollo), Binary (bson, protobuff).
   - **Databases and MQs:** MySQL, PostgreSQL(inc. TimescaleDB), MongoDB, InfluxDB, Casandra, RabbitMQ/Kafka, Redis.
   - **Linux Centos, Debian, Ubuntu:** Bash, ssh, vim, httpd, nginx, iptables, and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
+  - **2D and 3D modeling:** Vector and bitmap using Illustrator and Affinity. 3D product modeling using Blender and FreeCAD. PCB modeling using EasyEDA.
 
 - 🥱 **I don't like:** Svelte (terrible experience in production),  Java (terrible old one), C# (MSFT is evil), people that don't love what they do.
 - 📫 **How to reach me:** geekmaks@gmail.com, [Twitter](https://twitter.com/geek_maks), [Telegram](https://t.me/Zaratustrik)
