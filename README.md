@@ -27,14 +27,22 @@
 
 - 💬 **Ask me about:** 
   - **Product Architect and Design.**
-  - **Frameworks:** React/RN/Expo, ExpressJS, Vue, MeteorJS, Realm.io, RubyOnRails, Django, PlatformIO/Arduino, Boost.
-  - **Languages:** JS, C/C++, Ruby, Golang, Python, Bash.
+  - **Languages:** JS, Python, C, C++/11, Ruby, Golang, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
+  - **Frameworks:** 
+    - **Web and Mobile:** React, ReactNative, Expo, Flutter (less experience), ExpressJS, Vue, MeteorJS, Realm.io (Mongo), Ruby On Rails, Django.
+    - **Embedded and IOT:** PlatformIO, Arduino, C++ Boost.
+  - **UI/UX:** 
+    - **Modeling:** Figma, Sketch. 
+    - **Frameworks:** Bootstrap, Material Design.
   - **Testing and CI:** Jenkins, JEST, Dredd (For API REST testing).
   - **Cloud:** Cloudflare KV storage, Cloudflare Workers, Google cloud containers.
   - **APIs:** REST, GraphQL (Apollo), Binary (bson, protobuff).
   - **Databases and MQs:** MySQL, PostgreSQL(inc. TimescaleDB), MongoDB, InfluxDB, Casandra, RabbitMQ/Kafka, Redis.
   - **Linux Centos, Debian, Ubuntu:** Bash, ssh, vim, httpd, nginx, iptables, and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
-  - **2D and 3D modeling:** Vector and bitmap using Illustrator and Affinity. 3D product modeling using Blender and FreeCAD. PCB modeling using EasyEDA.
+  - **2D:** Vector and bitmap using Adobe Illustrator, Affinity Designer, Gimp, Photoshop.
+  - **2D/UI Animation:** Simple Icons and UI animations using After Effects, Haiku Animator, Lottie exported.
+  - **3D modeling:** Product modeling using Blender and FreeCAD.
+  - **Electric circuit and PCB:** PCB modeling using EasyEDA.
 
 - 🥱 **I don't like:** Svelte (terrible experience in production),  Java (terrible old one), C# (MSFT is evil), people that don't love what they do.
 - 📫 **How to reach me:** geekmaks@gmail.com, [Twitter](https://twitter.com/geek_maks), [Telegram](https://t.me/Zaratustrik)
