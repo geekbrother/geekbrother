@@ -25,7 +25,8 @@
 - 🌱 **I’m currently learning/working with:** Solidity and OpenZeppelin(wierd but its work), C++20, **JS**(you must learn it all the time), **TypeScript 4**, **React**, MCU programming (platformIO, C, C++) and a bunch of other things include Chinese 🤠
 - 👯 I’m looking to collaborate on cool projects in the cloud, iot or crypto sphere.
 
-- 💬 **Ask me about:** 
+
+- 💬 **I have experience in / Ask me about:** 
   - **Product Architect and Design.**
   - **Languages:** JS, Python, C, C++/11, Ruby, Golang, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
   - **Frameworks:** 
@@ -44,7 +45,7 @@
   - **3D modeling:** Product modeling using Blender and FreeCAD.
   - **Electric circuit and PCB:** PCB modeling using EasyEDA.
 
-- 🥱 **I don't like:** Svelte (terrible experience in production),  Java (terrible old one), C# (MSFT is evil), people that don't love what they do.
+- 🥱 **I don't like:** Svelte (terrible experience in production, [read my experience](https://medium.com/front-end-weekly/svelte-3-new-vue-killer-but-not-today-8de9c88c186b)), Flutter (pretty young with a bunch of issues, [read my experience](https://medium.com/swlh/flutter-breaking-development-trends-should-we-break-together-bfce6f006739)), Java (the old one), C# (MSFT is evil), People that don't love what they do.
 - 📫 **How to reach me:** geekmaks@gmail.com, [Twitter](https://twitter.com/geek_maks), [Telegram](https://t.me/Zaratustrik)
 - 🧑‍🎓 **Educations:** National Law University of Ukraine - Master Degree **Lawyer** (Intellectual property, Court), Treehouse PHP and JS courses, Kharkiv National University of Radio Electronics (Ukraine) - Master Degree **Software Engineer**
 - 🤠 **Work timeline:**
@@ -56,7 +57,8 @@
   - 2017 - 2019: NashDom.app: Team Lead, One of investors, Acting as a full-stack developer too. Team management: One frontend Junior Developer (ReactNative)(Office), One backend middle developer(NodeJS)(office), One Graphic/UI/Motion Designer(Remote), One hardware engineer (MCUs, C++).
   - 2020 - 2021: Relly.me: CTO, Acting as a full-stack developer part-time. Team management: One frontend Junior Developer (ReactNative, NodeJS)(Office), One backend middle developer(NodeJS)(office), One hardware engineer (MCUs, C++, PlatformIO), One plastic case assembly and packaging, One 3D parts designer (Hardware, Circuits), One Graphic/Motion Designer(remote).
 
-- 💪 **Working principles:** You need to know your team's work and how the things and certain technology work! That's why in most cases when I've been CTO I'm acting as a full stack developer too (part-time only, management is a first priority). Smaller, but motivated and smarter team - my priority in the projects.
+- 💪 **Work principles and methods:** You need to know your team's work and how the things and certain technology work! That's why in most cases when I've been CTO I'm acting as a full stack developer too (part-time only, management is a first priority). Smaller, but motivated and smarter team - my priority in the projects.
+I prefer to choose between Agile and Waterfall method depending on the project and it development stage using Jira, Redmine, Github Projects and Issues.
 
 - 🛵  **Hobby:** While I'm not coding or assembling something new all in wires, I like 🚴‍♂️ cycling, 🏄‍♂️ surfing (thanks to Bali) and 🏂 snowboarding (very rare if to be honest, I prefer the sun). I like travel and this is my biggest investment now. You need to know the world from different angels to make something new for the people.
 - ✈️  **My visited countries list:** USA, UAE, Qatar, Korea, China, Egypt, Turkey, Greece, Cyprus, Italy, Spain, Netherlands, Germany, Russia, Thailand, Cambodia, Vietnam, Indonesia, India, Dominican Republic, Malaysia, Singapore.
