@@ -45,7 +45,7 @@
   - **Cloud:** Cloudflare KV storage, Cloudflare Workers, Google cloud containers.
   - **APIs:** REST, GraphQL (Apollo), Binary (bson, protobuff).
   - **Databases and MQs:** MySQL, PostgreSQL(inc. TimescaleDB), MongoDB, InfluxDB, Casandra, RabbitMQ/Kafka, Redis.
-  - **Linux Centos, Debian, Ubuntu:** Bash, ssh, vim, httpd, nginx, iptables, and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
+  - **Linux Centos, Debian, Ubuntu:** Bash, ssh, vim, httpd, nginx, iptables, Asterisk(VoIP) and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
   - **2D:** Vector and bitmap using Adobe Illustrator, Affinity Designer, Gimp, Photoshop.
   - **2D/UI Animation:** Simple Icons and UI animations using After Effects, Haiku Animator, Lottie exported.
   - **3D modeling:** Product modeling using Blender and FreeCAD.
