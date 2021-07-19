@@ -8,15 +8,35 @@
 - ⚡ **Fun fact:** I've started my way from Delphi 😄  in 2001 year (Bet you don't know what the language is) and made websites when PHP was at version 3 🗿
 
 ### 🙌🏻 What I've made:
-  - **VDS64** Hosting Platform Administration for virtual containers OpenVZ (UI JQuery + Bootstrap, Never version uses Vue, API REST, Backend PHP and HHVM + Python + Bash scripts, DB MySQL). 🟢 Running
-  - **SimpleHM** Server management GUI for Centos VPS's (UI React + Bootstrap, API REST, Backend C++11 + Bash scripts). 🟢 Running
-  - **ServerPanel.io** Server management GUI and app marketplace for Bare-metal and vps's (UI React, Backend Golang, API GraphQL, DB PostgreSQL + InfluxDB). ✖️ Stopped after 1.5 years of work due to lack of resources.
-  - **Slavena.pro** Business Automation platform (Mostly modified Redmine and a bunch of Redmine Ruby plugins + Python scripts for analytics and Telegram, MobileApp integrations, DB PostgreSQL). 🟢 Running
-  - **Slavena.app** Android mobile app for workers to automate business processes and integrate with Slavena.pro Redmine platform (React Native/Expo, API REST). 🟢 Running
-  - **Nashdom.app** Mobile App for control smart home apartments gates and doors, send and pay invoices (React Native/Expo, API GraphQL, Backend NodeJS, Database MongoDB, MQ RabbitMQ). 🟢 Running
-  - **Bitty (Working name)** Cryptocurrency and 2FA wallet based on total air-gapped principle (Hardware ESP32 MCU + hardware key storage by microchip, GUI Vue, API REST, Firmware C++ PlatformIO with MicroPython SDK for developers, Cloud: Backend NodeJS, DB PostgreSQL). ⚪️ Paused on hardware part assembling due to lack of resources
-  - **Relly.me** Smart home system for apartment blocks with software (Mobile App), Backend, and hardware parts. 🟡 Active development, partly running
-    - As for now three hardware items in production: 
+  - **[VDS64](https://vds64.com)** Hosting Platform Administration for virtual containers OpenVZ (UI JQuery + Bootstrap, Never version uses Vue, API REST, Backend PHP and HHVM + Python + Bash scripts, DB MySQL).
+    - 👨‍ Act as a full-stack developer and CTO later.
+    - 🟢 Running
+  - **[SimpleHM](https://cc.vds64.com)** Server management GUI for Centos VPS's (UI React + Bootstrap, API REST, Backend C++11 + Bash scripts).
+    - 👨‍ Act as a CTO/Lead.
+    - 🟢 Running
+  - **ServerPanel.io** Server management GUI and app marketplace for Bare-metal and vps's (UI React, Backend Golang, API GraphQL, DB PostgreSQL + InfluxDB).
+    - 👨‍ Act as a CTO/Co-founder.
+    - ✖️ Stopped after 1.5 years of work due to lack of resources.
+  - **[BOP](http://bop.geeks.codes)** Business Operation Platform. This is an ERP/CRM system based on Redmine wich was partly rewrited by our team, multiple plugins created to meet certain business automation tasks. Also MobileApp created using ReactNative. Python and nodeJS microservices for notifications, analytics, telegram and mobile APP integration.
+    - 👨‍ Act as a CTO/Co-founder.
+    - 🟢 Running
+    - **[Slavena.pro](https://slavena.pro)** BOP based platform for large printing and package producer.
+  - **[Slavena.app](https://play.google.com/store/apps/details?id=com.geeksteam.slavena&hl=en_NZ)** Android mobile app for workers to automate business processes and integrate with Slavena.pro BOP platform (React Native/Expo, API REST). 
+    - 👨‍ Act as a CTO/Lead.
+    - 🟢 Running
+  - **[Nashdom.app](http://nashdom.relly.me/)** Mobile App for control smart home apartments gates and doors, send and pay invoices (React Native/Expo, API GraphQL, Backend NodeJS, Database MongoDB, MQ RabbitMQ).
+    - 👨‍ Act as a CTO/Co-founder.  
+    - 🟢 Running
+  - **[Plastify.tech](https://plastify.tech)** Small batch plastic cases/parts casting for IoT and smart devices. BOP platform as an ERP/CRM.
+    - 👨‍ Act as a CTO/Founder.
+    - 🟢 Running
+  - **Bitty (Working name)** Cryptocurrency and 2FA wallet based on total air-gapped principle (Hardware ESP32 MCU + hardware key storage by microchip, GUI Vue, API REST, Firmware C++ PlatformIO with MicroPython SDK for developers, Cloud: Backend NodeJS, DB PostgreSQL).
+    - 👨‍ Act as a CTO/Lead/Co-founder.
+    - ⚪️ Paused on hardware part assembling due to lack of resources
+  - **[Relly.me](http://relly.me)** Smart home system for apartment blocks, hotels and office buildings with software (Mobile App), Backend, and Hardware parts.
+    - 👨‍ Act as a CTO/Lead/Co-founder.
+    - 🟡 Under active development, already partly running.
+    - At the moment there are three hardware items in production: 
       - Small one port wifi relay module based on esp8266 (Firmware: C++/PlatformIO + VueJS for webgui).
       - 8 port smart relay module with encryption and display based on esp32 (Firmware: C++/PlatformIO + VueJS for webgui).
       - Smart wifi doorbell based on esp32 with camera module (Firmware: C++/PlatformIO).
@@ -59,12 +79,14 @@
   - People that don't love what they do.
 
 ### 📫 How to reach me:
-  - geekmaks@gmail.com, [Twitter](https://twitter.com/geek_maks), 
+  - geekmaks@gmail.com, max@geeks.codes
+  - [Twitter](https://twitter.com/geek_maks), 
   - [Telegram](https://t.me/Zaratustrik).
 
 ### 🧑‍🎓 Educations:
   - National Law University of Ukraine - Master Degree **Lawyer** (Intellectual property), 
-  - Treehouse PHP and JS courses, 
+  - Treehouse PHP, Python and JS courses,
+  - More than 10+ years of self education, 
   - Kharkiv National University of Radio Electronics (Ukraine) - Master Degree **Software Engineer**
 
 ### 🤠 Work timeline:
@@ -86,7 +108,13 @@ I prefer to choose between Agile and Waterfall method depending on the project a
 - ✈️  **My visited countries list:** USA, UAE, Qatar, Korea, China, Egypt, Turkey, Greece, Cyprus, Italy, Spain, Netherlands, Germany, Russia, Thailand, Cambodia, Vietnam, Indonesia, India, Dominican Republic, Malaysia, Singapore.
 
 ### 🙋🏻‍♂️ You can meet me (saw me) at meetups: 
-(USA) Github Universe (2015, 2016, 2018), Google I/O (2016), TechCrunch Disrupt (2016), Twitter HQ San Francisco Machine Learning meetups (2018), Uber HQ San Francisco Meetups (2016). (Ukraine) Ruby On Rails meetup at Fabrika.space (2019), JS devils at Fabrika.space (2019).
+- (USA) Github Universe (2015, 2016, 2018), 
+- Google I/O (2016), 
+- TechCrunch Disrupt (2016), 
+- Twitter HQ San Francisco Machine Learning meetups (2018), 
+- Uber HQ San Francisco Meetups (2016), 
+- (Ukraine) Ruby On Rails meetup at Fabrika.space (2019), 
+- JS devils at Fabrika.space (2019).
 
 ### Connect with me:
 <p align="left">
