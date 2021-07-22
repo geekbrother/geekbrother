@@ -56,11 +56,12 @@
   - **Product Architect and Design.**
   - **Languages:** JS, Python, C, C++/11, Ruby, Golang, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
   - **Frameworks:** 
-    - **Web and Mobile:** React, ReactNative, Expo, Flutter (less experience), ExpressJS, Vue, MeteorJS, Realm.io (Mongo), Ruby On Rails, Django.
+    - **Web and Mobile:** **JS:** Angular (version 1 and stopped using, moved to React), React, ReactNative, Expo, Vue, GatsbyJS. **Ruby:** Ruby On Rails. **Python:** Django. **Dart:** Flutter (less experience).
+    - **Backend:** **JS:** NodeJS, ExpressJS, MeteorJS, Realm.io (MongoDB Stitch). **C/C++:** Boost, PlatformIO, Arduino.
     - **Embedded and IOT:** PlatformIO, Arduino, C++ Boost.
   - **UI/UX:** 
     - **Modeling:** Figma, Sketch. 
-    - **Frameworks:** Bootstrap, Material Design.
+    - **UI Frameworks:** Bootstrap, Material Design.
   - **Testing and CI:** Jenkins, JEST, Dredd (For API REST testing).
   - **Cloud:** Cloudflare KV storage, Cloudflare Workers, Google cloud containers.
   - **APIs:** REST, GraphQL (Apollo), Binary (bson, protobuff).
