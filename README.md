@@ -85,10 +85,10 @@
   - [Telegram](https://t.me/Zaratustrik).
 
 ### 🧑‍🎓 Educations:
-  - National Law University of Ukraine - Master Degree **Lawyer** (Intellectual property), 
+  - National Law University of Ukraine - Master Degree **Lawyer** (Intellectual property),
+  - Kharkiv National University of Radio Electronics (Ukraine) - Master Degree **Software Engineer** 
   - Treehouse PHP, Python and JS courses,
   - More than 10+ years of self education, 
-  - Kharkiv National University of Radio Electronics (Ukraine) - Master Degree **Software Engineer**
 
 ### 🤠 Work timeline:
   - 2002 - 2006: Kharkiv Information System: WebDeveloper, made a big bunch of websites using PHP+MySQL+Jquery as full-stack developer.
