@@ -15,7 +15,7 @@
     - 👨‍ Act as a CTO/Lead.
     - 🟢 Running
   - **ServerPanel.io** Server management GUI and app marketplace for Bare-metal and vps's (UI React, Backend Golang, API GraphQL, DB PostgreSQL + InfluxDB).
-    - 👨‍ Act as a CTO/Co-founder.
+    - 👨‍ Act as a CTO/Co-founder/Backend Team Lead.
     - ✖️ Stopped after 1.5 years of work due to lack of resources.
   - **[BOP](http://bop.geeks.codes)** Business Operation Platform. This is an ERP/CRM system based on Redmine wich was partly rewrited by our team, multiple plugins created to meet certain business automation tasks. Also MobileApp created using ReactNative. Python and nodeJS microservices for notifications, analytics, telegram and mobile APP integration.
     - 👨‍ Act as a CTO/Co-founder.
@@ -71,6 +71,9 @@
   - **2D/UI Animation:** Simple Icons and UI animations using After Effects, Haiku Animator, Lottie exported.
   - **3D modeling:** Product modeling using Blender and FreeCAD.
   - **Electric circuit and PCB:** PCB modeling using EasyEDA.
+
+### 🧙🏼‍♂️ Team Management:
+I prefer managing a small team of developers (up to 10) or management 2nd layer Team Leads of brunches to achieve the best results. Minimum meetings nad more results. Monday and Thursday meetings are the best suite in development in my practice. 
 
 ### 🥱 I don't like:
   - Svelte (terrible experience in production, [read my experience](https://medium.com/front-end-weekly/svelte-3-new-vue-killer-but-not-today-8de9c88c186b)),
