@@ -73,7 +73,7 @@
   - **Electric circuit and PCB:** PCB modeling using EasyEDA.
 
 ### 🧙🏼‍♂️ Team Management:
-I prefer managing a small team of developers (up to 10) or management 2nd layer Team Leads of brunches to achieve the best results. Minimum meetings nad more results. Monday and Thursday meetings are the best suite in development in my practice. 
+I prefer managing a small team of developers (up to 10) or managing 2nd layer Team Leads of brunches to achieve the best results. Minimum meetings nad more results. Monday and Thursday meetings are the best suite in development in my practice. 
 
 ### 🥱 I don't like:
   - Svelte (terrible experience in production, [read my experience](https://medium.com/front-end-weekly/svelte-3-new-vue-killer-but-not-today-8de9c88c186b)),
