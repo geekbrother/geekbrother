@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on cool projects about cloud, iot or crypto sphere.
 - ⚡ **Fun fact:** I've started my way from Delphi 😄  in 2001 year at school by creating a small BPM system. (Bet you don't know what the language is). Then I made a websites when PHP was at version 3 🗿
 
-### 🙌🏻 What I've made:
+### 🙌🏻 Made with this hands:
   - **[VDS64](https://vds64.com)** Hosting Platform Administration for virtual containers OpenVZ (UI JQuery + Bootstrap, Never version uses Vue, API REST, Backend PHP and HHVM + Python + Bash scripts, DB MySQL).
     - 👨‍ Act as a full-stack developer and CTO later.
     - 🟢 Running
@@ -44,6 +44,11 @@
       - Smart wifi doorbell based on esp32 with camera module (Firmware: C++/PlatformIO).
     - User Mobile IOS and Android App (ReactNative/Expo, API GraphQL).
     - Backend based on NodeJS service with Cloudflare workers and KV storage. Database MongoDB for user data using Realm.io and TimeScaleDB for logging and analytics. MQ RabbitMQ.
+  - **[Comm.app](https://comm.app)** Web3 Discord and own keyservers.
+    - 👨‍ Act as a Core team full-stack engineer.
+    - 🟡 Under active development, already beta running.
+    - User Mobile IOS and Android App (JS ReactNative, C++ JSI modules for crypto and etc.).
+    - Backend based on the NodeJS, MySQL Database (for now).
 
 ### 🌱 I’m currently learning/working with:
 -  Solidity and OpenZeppelin(wierd but its work),
@@ -103,6 +108,7 @@ I prefer managing a small team of developers (up to 10) or managing 2nd layer Te
   - 2015 - 2017: ServerPanel.io: Team Lead, One of investors, Acting as a full-stack developer too. Team management: One frontend Middle Developer (Angular, React)(Office), One frontend junior Developer (React)(Office), One backend middle developer (Golang, Python, DevOps)(Remote), One backend junior developer (Golang)(Office).
   - 2017 - 2019: NashDom.app: Team Lead, One of investors, Acting as a full-stack developer too. Team management: One frontend Junior Developer (ReactNative)(Office), One backend middle developer(NodeJS)(office), One Graphic/UI/Motion Designer(Remote), One hardware engineer (MCUs, C++).
   - 2020 - 2021: Relly.me: CTO, Acting as a full-stack developer part-time. Team management: One frontend Junior Developer (ReactNative, NodeJS)(Office), One backend middle developer(NodeJS)(office), One hardware engineer (MCUs, C++, PlatformIO), One plastic case assembly and packaging, One 3D parts designer (Hardware, Circuits), One Graphic/Motion Designer(remote).
+  - 2021 - ...: Comm.app: Core team full-stack engineer.
 
 ### 💪 Work principles and methods: 
 You need to know your team's work and how the things and certain technology work! That's why in most cases when I've been CTO I'm acting as a full stack developer too (part-time only, management is a first priority). Smaller, but motivated and smarter team - my priority in the projects.
