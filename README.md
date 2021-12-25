@@ -61,7 +61,7 @@
 
 ### 💬 I have experience in / Ask me about:
   - **Product Architect and Design.**
-  - **Languages:** JS, Python, C, C++/11, Ruby, Golang, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
+  - **Languages:** Vanilla JavaScript, Flow, Python, C, C++/11, Ruby, Golang, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
   - **Frameworks:** 
     - **Web and Mobile:** **JS:** Angular (version 1 and stopped using, moved to React), React, ReactNative, Expo, Vue, GatsbyJS. **Ruby:** Ruby On Rails. **Python:** Django. **Dart:** Flutter (less experience).
     - **Backend:** **JS:** NodeJS, ExpressJS, MeteorJS, Realm.io (MongoDB Stitch). **C/C++:** Boost, PlatformIO, Arduino.
