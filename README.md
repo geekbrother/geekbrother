@@ -53,6 +53,7 @@
 ### 🌱 I’m currently learning/working with:
 -  Solidity and OpenZeppelin(wierd but its work),
 -  C++20,
+-  Rust,
 -  **JS**(you must learn it all the time),
 -  **TypeScript 4**,
 -  **React**,
@@ -61,7 +62,7 @@
 
 ### 💬 I have experience in / Ask me about:
   - **Product Architect and Design.**
-  - **Languages:** Vanilla JavaScript, Flow, Python, C, C++/11, Ruby, Golang, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
+  - **Languages:** Vanilla JavaScript, Flow, Python, C, C++/11/17/20, Rust, Ruby, Golang, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
   - **Frameworks:** 
     - **Web and Mobile:** **JS:** Angular (version 1 and stopped using, moved to React), React, ReactNative, Expo, Vue, GatsbyJS. **Ruby:** Ruby On Rails. **Python:** Django. **Dart:** Flutter (less experience).
     - **Backend:** **JS:** NodeJS, ExpressJS, MeteorJS, Realm.io (MongoDB Stitch). **C/C++:** Boost, PlatformIO, Arduino.
@@ -108,10 +109,10 @@ I prefer managing a small team of developers (up to 10) or managing 2nd layer Te
   - 2015 - 2017: ServerPanel.io: Team Lead, One of investors, Acting as a full-stack developer too. Team management: One frontend Middle Developer (Angular, React)(Office), One frontend junior Developer (React)(Office), One backend middle developer (Golang, Python, DevOps)(Remote), One backend junior developer (Golang)(Office).
   - 2017 - 2019: NashDom.app: Team Lead, One of investors, Acting as a full-stack developer too. Team management: One frontend Junior Developer (ReactNative)(Office), One backend middle developer(NodeJS)(office), One Graphic/UI/Motion Designer(Remote), One hardware engineer (MCUs, C++).
   - 2020 - 2021: Relly.me: CTO, Acting as a full-stack developer part-time. Team management: One frontend Junior Developer (ReactNative, NodeJS)(Office), One backend middle developer(NodeJS)(office), One hardware engineer (MCUs, C++, PlatformIO), One plastic case assembly and packaging, One 3D parts designer (Hardware, Circuits), One Graphic/Motion Designer(remote).
-  - 2021 - ...: Comm.app: Core team full-stack engineer.
+  - 2021 - ...: Comm.app: Core team full-stack engineer (JS, C++, Rust, Infrastructure).
 
 ### 💪 Work principles and methods: 
-You need to know your team's work and how the things and certain technology work! That's why in most cases when I've been CTO I'm acting as a full stack developer too (part-time only, management is a first priority). Smaller, but motivated and smarter team - my priority in the projects.
+You need to know your team's work and how the things and certain technology work! That's why in most cases when I've been Founding Engineer I'm acting as a full stack developer too (part-time only, management is a first priority). Smaller, but motivated and smarter team - my priority in the projects.
 
 I prefer to choose between Agile and Waterfall method depending on the project and it development stage using Jira, Redmine, Github Projects and Issues.
 
@@ -127,6 +128,7 @@ I prefer to choose between Agile and Waterfall method depending on the project a
 - Uber HQ San Francisco Meetups (2016), 
 - (Ukraine) Ruby On Rails meetup at Fabrika.space (2019), 
 - JS devils at Fabrika.space (2019).
+- App.js at Krakow (2022).
 
 ### Connect with me:
 <p align="left">
