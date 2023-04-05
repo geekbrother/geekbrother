@@ -99,7 +99,7 @@ I prefer managing a small team of developers (up to 10) or managing 2nd layer Te
   - More than 10+ years of self education, 
 
 ### 🤠 Work timeline:
-  - 2002 - 2006: Kharkiv Information System: WebDeveloper, made a big bunch of websites using PHP+MySQL+Jquery as full-stack developer.
+  - 2002 - 2006: Kharkiv Information System: WebDeveloper, made a big bunch of websites using PHP+MySQL+Jquery as full-stack developer. I've made a small framework called [ngMySQL](https://github.com/geekbrother/ngMySQL) to bind Angular and MySQL for the admin web-ui's.
   - 2006 - 2009: Webspace.com.ua: WebDeveloper + Linux Administrator (Part-time).
   - 2007 - 2009: Arbitrage court of Kharkiv District (Ukraine). Judge assitant. Intellectual property, Business litigations.
   - 2010 - 2019: VDS64.com: CTO, Acting as a full-stack developer too. Administration system development and maintenance. Cloud control software development and hardware integration. Own cloud expansion to three countries (Ukraine, Germany, Russia). Team management (all remote): Two frontends Junior Developers, One backend Junior Developer, One server hardware engineer, support team: Four Linux system administrators 24x7 operation.
