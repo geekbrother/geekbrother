@@ -51,9 +51,9 @@
 
 ### 🌱 I’m currently working with:
 -  **JS / TypeScript / Flow**,
+-  **React / Native / Expo**,
 -  **C++ 11/17/20**,
 -  **Rust**,
--  **React / Native / Expo**,
 -  MCU programming (platformIO, C / C++),
 -  and a bunch of other things include Chinese 🤠
 
@@ -61,19 +61,21 @@
   - **Product Architect and Design.**
   - **Languages:** Vanilla JavaScript, TypeScript, Flow, Python, C, C++/11/17/20, Rust, Ruby, Golang, Dart, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
   - **Frameworks:** 
-    - **Web and Mobile:** **JS:** Angular (version 1 and stopped using, moved to React), React, ReactNative, Expo, Vue, GatsbyJS. **Ruby:** Ruby On Rails. **Python:** Django. **Dart:** Flutter (experimenting).
+    - **Web:** **JS:** Angular (version 1 and stopped using, moved to React), React, Vue, GatsbyJS. **Ruby:** Ruby On Rails. **Python:** Django.
+    - **Mobile:** **JS:** ReactNative, Expo. **Dart:** Flutter (experimenting).
     - **Backend:** **JS:** NodeJS, ExpressJS, MeteorJS, Realm.io (MongoDB Stitch). **C/C++:** Boost, PlatformIO, Arduino.
     - **Embedded and IOT:** PlatformIO ([Check my libraries](https://platformio.org/lib/search?query=owner:geekmaks)), Arduino, C++ Boost.
   - **UI/UX:** 
     - **Modeling:** Figma, Sketch. 
     - **UI Frameworks:** Bootstrap, Material Design.
+    - **UI Animation:** **JS:** Reanimated2/3, Skia (experimenting).
+    - **2D/UI Animation:** Simple Icons and UI animations using After Effects, Haiku Animator, Lottie.
   - **Testing and CI:** Jenkins, Jest, Dredd (For API REST testing).
   - **Cloud:** Cloudflare KV storage, Cloudflare Workers, Google cloud containers, AWS Lambda, AWS S3, AWS DynamoDB, AWS ECS.
   - **APIs:** REST, GraphQL (Apollo), Binary (bson, protobuff).
   - **Databases and MQs:** MySQL, PostgreSQL(inc. TimescaleDB), MongoDB, DynamoDB, InfluxDB, Casandra, RabbitMQ/Kafka, Redis.
   - **Linux Centos, Debian, Ubuntu:** Bash, ssh, vim, httpd, nginx, iptables, Asterisk(VoIP) and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
   - **2D:** Vector and bitmap using Adobe Illustrator, Affinity Designer, Gimp, Photoshop.
-  - **2D/UI Animation:** Simple Icons and UI animations using After Effects, Haiku Animator, Lottie.
   - **3D modeling:** Product modeling using Blender and FreeCAD.
   - **Electric circuit and PCB:** PCB modeling using EasyEDA.
 
