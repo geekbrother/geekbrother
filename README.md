@@ -1,14 +1,16 @@
 # Hi there 👋  I'm Max 
-## And I'm an addicted developer, startup'er, and traveler
+## I'm an addicted software developer (since 2002), startup'er (since 2007), and traveler (since I had my first job)
 
 - 🔭 I’m currently working on https://github.com/CommE2E/comm
-- 👨‍💻 Write for "Frontend Weekly" and "The Startup" on [Medium](https://geekmaks.medium.com/).
-- Few of my packages at [NPM](https://www.npmjs.com/~geekmaks).
-- Few of my libraries at [PlatformIO](https://platformio.org/lib/search?query=owner:geekmaks).
-- 👯 I’m looking to collaborate on cool projects about cloud, iot or crypto sphere.
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=appveyor&logo=medium&logoColor=white&logoWidth=20&logo=)](https://geekmaks.medium.com/) 👨‍💻 Write for "Frontend Weekly" and "The Startup" on [Medium](https://geekmaks.medium.com/).
+- [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~geekmaks) 🏗 My packages at [NPM](https://www.npmjs.com/~geekmaks).
+- [![PlatformIO](https://img.shields.io/badge/-PlatformIO-orange?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTEyOCAwQzkzLjgxIDAgNjEuNjY2IDEzLjMxNCAzNy40OSAzNy40OSAxMy4zMTQgNjEuNjY2IDAgOTMuODEgMCAxMjhjMCAzNC4xOSAxMy4zMTQgNjYuMzM0IDM3LjQ5IDkwLjUxQzYxLjY2NiAyNDIuNjg2IDkzLjgxIDI1NiAxMjggMjU2YzM0LjE5IDAgNjYuMzM0LTEzLjMxNCA5MC41MS0zNy40OUMyNDIuNjg2IDE5NC4zMzQgMjU2IDE2Mi4xOSAyNTYgMTI4YzAtMzQuMTktMTMuMzE0LTY2LjMzNC0zNy40OS05MC41MUMxOTQuMzM0IDEzLjMxNCAxNjIuMTkgMCAxMjggMCIgZmlsbD0iI0ZGN0YwMCIvPjxwYXRoIGQ9Ik0yNDkuMzg2IDEyOGMwIDY3LjA0LTU0LjM0NyAxMjEuMzg2LTEyMS4zODYgMTIxLjM4NkM2MC45NiAyNDkuMzg2IDYuNjEzIDE5NS4wNCA2LjYxMyAxMjggNi42MTMgNjAuOTYgNjAuOTYgNi42MTQgMTI4IDYuNjE0YzY3LjA0IDAgMTIxLjM4NiA1NC4zNDYgMTIxLjM4NiAxMjEuMzg2IiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTE2MC44NjkgNzQuMDYybDUuMTQ1LTE4LjUzN2M1LjI2NC0uNDcgOS4zOTItNC44ODYgOS4zOTItMTAuMjczIDAtNS43LTQuNjItMTAuMzItMTAuMzItMTAuMzJzLTEwLjMyIDQuNjItMTAuMzIgMTAuMzJjMCAzLjc1NSAyLjAxMyA3LjAzIDUuMDEgOC44MzdsLTUuMDUgMTguMTk1Yy0xNC40MzctMy42Ny0yNi42MjUtMy4zOS0yNi42MjUtMy4zOWwtMi4yNTggMS4wMXYxNDAuODcybDIuMjU4Ljc1M2MxMy42MTQgMCA3My4xNzctNDEuMTMzIDczLjMyMy04NS4yNyAwLTMxLjYyNC0yMS4wMjMtNDUuODI1LTQwLjU1NS01Mi4xOTd6TTE0Ni41MyAxNjQuOGMtMTEuNjE3LTE4LjU1Ny02LjcwNi02MS43NTEgMjMuNjQzLTY3LjkyNSA4LjMyLTEuMzMzIDE4LjUwOSA0LjEzNCAyMS41MSAxNi4yNzkgNy41ODIgMjUuNzY2LTM3LjAxNSA2MS44NDUtNDUuMTUzIDUxLjY0NnptMTguMjE2LTM5Ljc1MmE5LjM5OSA5LjM5OSAwIDAgMC05LjM5OSA5LjM5OSA5LjM5OSA5LjM5OSAwIDAgMCA5LjQgOS4zOTkgOS4zOTkgOS4zOTkgMCAwIDAgOS4zOTgtOS40IDkuMzk5IDkuMzk5IDAgMCAwLTkuMzk5LTkuMzk4em0yLjgxIDguNjcyYTIuMzc0IDIuMzc0IDAgMSAxIDAtNC43NDkgMi4zNzQgMi4zNzQgMCAwIDEgMCA0Ljc0OXoiIGZpbGw9IiNFNTcyMDAiLz48cGF0aCBkPSJNMTAxLjM3MSA3Mi43MDlsLTUuMDIzLTE4LjkwMWMyLjg3NC0xLjgzMiA0Ljc4Ni01LjA0IDQuNzg2LTguNzAxIDAtNS43LTQuNjItMTAuMzItMTAuMzItMTAuMzItNS42OTkgMC0xMC4zMTkgNC42Mi0xMC4zMTkgMTAuMzIgMCA1LjY4MiA0LjU5MiAxMC4yODkgMTAuMjY3IDEwLjMxN0w5NS44IDc0LjM3OGMtMTkuNjA5IDYuNTEtNDAuODg1IDIwLjc0Mi00MC44ODUgNTEuODguNDM2IDQ1LjAxIDU5LjU3MiA4NS4yNjcgNzMuMTg2IDg1LjI2N1Y2OC44OTJzLTEyLjI1Mi0uMDYyLTI2LjcyOSAzLjgxN3ptMTAuMzk1IDkyLjA5Yy04LjEzOCAxMC4yLTUyLjczNS0yNS44OC00NS4xNTQtNTEuNjQ1IDMuMDAyLTEyLjE0NSAxMy4xOS0xNy42MTIgMjEuNTExLTE2LjI4IDMwLjM1IDYuMTc1IDM1LjI2IDQ5LjM2OSAyMy42NDMgNjcuOTI2em0tMTguODItMzkuNDZhOS4zOTkgOS4zOTkgMCAwIDAtOS4zOTkgOS4zOTggOS4zOTkgOS4zOTkgMCAwIDAgOS40IDkuNCA5LjM5OSA5LjM5OSAwIDAgMCA5LjM5OC05LjQgOS4zOTkgOS4zOTkgMCAwIDAtOS4zOTktOS4zOTl6bS0yLjgxIDguNjcxYTIuMzc0IDIuMzc0IDAgMSAxIDAtNC43NDggMi4zNzQgMi4zNzQgMCAwIDEgMCA0Ljc0OHoiIGZpbGw9IiNGRjdGMDAiLz48L3N2Zz4=)](https://platformio.org/lib/search?query=owner:geekmaks) Few of my libraries at [PlatformIO](https://platformio.org/lib/search?query=owner:geekmaks).
+- 🫶 **I’m looking** to collaborate on cool projects about cloud, IoT, Web3, or crypto spheres.
 - ⚡ **Fun fact:** I've started my way from Delphi 😄  in 2001 year at school by creating a small BPM system. (Bet you don't know what the language is). Then I made a websites when PHP was at version 3 🗿
 
-### 🙌🏻 Made with this hands:
+<details>
+  <summary><h3> 🙌🏻 Made with this hands (TL;TR spoiler 👆)</h3></summary>
+  
   - **[VDS64](https://vds64.com)** Hosting Platform Administration for virtual containers OpenVZ (UI JQuery + Bootstrap, Never version uses Vue, API REST, Backend PHP and HHVM + Python + Bash scripts, DB MySQL).
     - 👨‍ Act as a full-stack developer and CTO later.
     - 🟢 Running
@@ -48,8 +50,10 @@
     - 🟡 Under active development, already beta running.
     - User Mobile IOS and Android App (JS ReactNative, C++ JSI modules for crypto and etc.).
     - Backend based on the NodeJS, MySQL Database (for now).
+  
+</details>    
 
-### 🌱 I’m currently working with:
+### 🌱 I’m currently (and mostly) working with:
 -  **JS / TypeScript / Flow**,
 -  **React / Native / Expo / Node**,
 -  **C++ 11/17/20**,
@@ -63,7 +67,7 @@
   - **Frameworks:** 
     - **Web:** **JS:** Angular (version 1 and stopped using, moved to React), React, Vue, GatsbyJS. **Ruby:** Ruby On Rails. **Python:** Django.
     - **Mobile:** **JS:** ReactNative, Expo. **Dart:** Flutter (experimenting).
-    - **Backend:** **JS:** NodeJS, ExpressJS, MeteorJS, Realm.io (MongoDB Stitch). **C/C++:** Boost, PlatformIO, Arduino.
+    - **Backend:** **JS:** NodeJS, ExpressJS, MeteorJS, Realm.io (MongoDB Stitch). **C/C++:** Boost, Folly, Vcpkg, PlatformIO, Arduino.
     - **Embedded and IOT:** PlatformIO ([Check my libraries](https://platformio.org/lib/search?query=owner:geekmaks)), Arduino, C++ Boost.
   - **UI/UX:** 
     - **Modeling:** Figma, Sketch. 
@@ -74,13 +78,13 @@
   - **Cloud:** Cloudflare KV storage, Cloudflare Workers, Google cloud containers, AWS Lambda, AWS S3, AWS DynamoDB, AWS ECS, Supabase.
   - **APIs:** REST, GraphQL (Apollo), Binary (bson, protobuff), gRPC.
   - **Databases and MQs:** MySQL, PostgreSQL(inc. TimescaleDB), MongoDB, DynamoDB, InfluxDB, Casandra, RabbitMQ/Kafka, Redis.
-  - **Linux Centos, Debian, Ubuntu:** Bash, ssh, vim, httpd, nginx, iptables, Asterisk(VoIP) and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
+  - **Linux Centos, Debian, Ubuntu, Nix:** Bash, ssh, vim, httpd, nginx, iptables, Asterisk(VoIP) and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
   - **2D:** Vector and bitmap using Adobe Illustrator, Affinity Designer, Gimp, Photoshop.
   - **3D modeling:** Product modeling using Blender and FreeCAD.
   - **Electric circuit and PCB:** PCB modeling using EasyEDA.
 
 ### 🧙🏼‍♂️ Team Management:
-I prefer managing a small team of developers (up to 10) or managing 2nd layer Team Leads of brunches to achieve the best results. Minimum meetings nad more results. Monday and Thursday meetings are the best suite in development in my practice. 
+I prefer managing a small team of developers (up to 10) or managing 2nd layer Team Leads of brunches to achieve the best results. Minimum meetings and more results. Monday and Thursday meetings are the best suited for development in my practice.
 
 ### 🥱 I don't like:
   - Svelte (terrible experience in production, [read my experience](https://medium.com/front-end-weekly/svelte-3-new-vue-killer-but-not-today-8de9c88c186b)),
@@ -101,7 +105,9 @@ I prefer managing a small team of developers (up to 10) or managing 2nd layer Te
   - A lot of C++ books,
   - More than 10+ years of self education, 
 
-### 🤠 Work timeline:
+<details>
+  <summary><h3> 🤠 Work timeline (TL;TR spoiler 👆)</h3></summary>
+
   - 2002 - 2006: Kharkiv Information System: WebDeveloper, made a big bunch of websites using PHP+MySQL+Jquery as full-stack developer. I've made a small framework called [ngMySQL](https://github.com/geekbrother/ngMySQL) to bind Angular and MySQL for the admin web-ui's.
   - 2006 - 2009: Webspace.com.ua: WebDeveloper + Linux Administrator (Part-time).
   - 2007 - 2009: Arbitrage court of Kharkiv District (Ukraine). Judge assitant. Intellectual property, Business litigations.
@@ -111,13 +117,16 @@ I prefer managing a small team of developers (up to 10) or managing 2nd layer Te
   - 2020 - 2021: Relly.me: CTO, Acting as a full-stack developer part-time. Team management: One frontend Junior Developer (ReactNative, NodeJS)(Office), One backend middle developer(NodeJS)(office), One hardware engineer (MCUs, C++, PlatformIO), One plastic case assembly and packaging, One 3D parts designer (Hardware, Circuits), One Graphic/Motion Designer(remote).
   - 2021 - ...: Comm.app: Core team full-stack engineer (JS, C++, Rust, Infrastructure).
 
-### 💪 Work principles and methods: 
-You need to know your team's work and how the things and certain technology work! That's why in most cases when I've been Founding Engineer I'm acting as a full stack developer too (part-time only, management is a first priority). Smaller, but motivated and smarter team - my priority in the projects.
+</details>
 
-I prefer to choose between Agile and Waterfall method depending on the project and it development stage using Jira, Redmine, Github Projects and Issues.
+### 💪 Work principles and methods: 
+You need to know your team's work and how things and specific technology work! That's why in most cases when I've been Founding Engineer I'm acting as a full-stack developer too (part-time only, management is a first priority). Smaller, more motivated, and smarter team - my focus on the projects.
+
+I prefer to choose between the Agile and Waterfall method depending on the project and its development stage using Jira, Redmine, Github Projects, and Issues.
 
 ### 🛵  Hobby: 
 - While I'm not coding or assembling something new all in wires, I like 🚴‍♂️ cycling, 🏄‍♂️ surfing (thanks to Bali) and 🏂 snowboarding (very rare if to be honest, I prefer the sun). I like travel and this is my biggest investment now. You need to know the world from different angels to make something new for the people.
+- Sometime in the past I was dreaming to become a pilot and spent a lot of hours behind the B737 simulator, so I can land the plane 😅
 - ✈️  **My visited countries list:** USA, UAE, Qatar, Korea, China, Egypt, Turkey, Greece, Cyprus, Italy, Portugal, France, Austria, Hungary, Poland, Spain, Netherlands, Germany, Russia, Thailand, Cambodia, Vietnam, Indonesia, India, Dominican Republic, Malaysia, Singapore, Sri Lanka.
 
 ### 🙋🏻‍♂️ You can meet me (saw me) at meetups: 
