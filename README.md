@@ -55,15 +55,16 @@
 
 ### 🌱 I’m currently (and mostly) working with:
 -  **JS / TypeScript / Flow**,
--  **React / Native / Expo / Node**,
+-  **React / ReactNative / Expo / NodeJS**,
 -  **C++ 11/17/20**,
 -  **Rust**,
+-  **Go**,
 -  MCU programming (platformIO, C / C++),
 -  and a bunch of other things include Chinese 🤠
 
 ### 💬 I have experience in / Ask me about:
   - **Product Architect and Design.**
-  - **Languages:** Vanilla JavaScript, TypeScript, Flow, Python, C, C++/11/17/20, Rust, Ruby, Golang, Dart, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
+  - **Languages:** Vanilla JavaScript, TypeScript, Flow, Python, C, C++/11/17/20, Rust, Ruby, Go, Dart, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
   - **Frameworks:** 
     - **Web:** **JS:** Angular (version 1 and stopped using, moved to React), React, Vue, GatsbyJS. **Ruby:** Ruby On Rails. **Python:** Django.
     - **Mobile:** **JS:** ReactNative, Expo. **Dart:** Flutter (experimenting).
