@@ -1,68 +1,88 @@
 # Hi there 👋  I'm Max 
-## I'm an addicted software developer (since 2002), startup'er (since 2007), and traveler (since I had my first job)
+### I'm an addicted software developer 👨‍💻 for 15 years, startups worker 🧙🏻‍♂️ and traveler 🏄🏻‍♂️
 
-- 🔭 I’m currently working on https://github.com/CommE2E/comm
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=appveyor&logo=medium&logoColor=white&logoWidth=20&logo=)](https://geekmaks.medium.com/) 👨‍💻 Write for "Frontend Weekly" and "The Startup" on [Medium](https://geekmaks.medium.com/).
+- 🔭 I’m currently working on https://github.com/CommE2E/comm.
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/geekbrother) [GitHub](https://github.com/geekbrother) profile.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-geek/) [LinkedIn](https://www.linkedin.com/in/max-geek/) profile.
 - [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~geekmaks) 🏗 My packages at [NPM](https://www.npmjs.com/~geekmaks).
-- [![PlatformIO](https://img.shields.io/badge/-PlatformIO-orange?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTEyOCAwQzkzLjgxIDAgNjEuNjY2IDEzLjMxNCAzNy40OSAzNy40OSAxMy4zMTQgNjEuNjY2IDAgOTMuODEgMCAxMjhjMCAzNC4xOSAxMy4zMTQgNjYuMzM0IDM3LjQ5IDkwLjUxQzYxLjY2NiAyNDIuNjg2IDkzLjgxIDI1NiAxMjggMjU2YzM0LjE5IDAgNjYuMzM0LTEzLjMxNCA5MC41MS0zNy40OUMyNDIuNjg2IDE5NC4zMzQgMjU2IDE2Mi4xOSAyNTYgMTI4YzAtMzQuMTktMTMuMzE0LTY2LjMzNC0zNy40OS05MC41MUMxOTQuMzM0IDEzLjMxNCAxNjIuMTkgMCAxMjggMCIgZmlsbD0iI0ZGN0YwMCIvPjxwYXRoIGQ9Ik0yNDkuMzg2IDEyOGMwIDY3LjA0LTU0LjM0NyAxMjEuMzg2LTEyMS4zODYgMTIxLjM4NkM2MC45NiAyNDkuMzg2IDYuNjEzIDE5NS4wNCA2LjYxMyAxMjggNi42MTMgNjAuOTYgNjAuOTYgNi42MTQgMTI4IDYuNjE0YzY3LjA0IDAgMTIxLjM4NiA1NC4zNDYgMTIxLjM4NiAxMjEuMzg2IiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTE2MC44NjkgNzQuMDYybDUuMTQ1LTE4LjUzN2M1LjI2NC0uNDcgOS4zOTItNC44ODYgOS4zOTItMTAuMjczIDAtNS43LTQuNjItMTAuMzItMTAuMzItMTAuMzJzLTEwLjMyIDQuNjItMTAuMzIgMTAuMzJjMCAzLjc1NSAyLjAxMyA3LjAzIDUuMDEgOC44MzdsLTUuMDUgMTguMTk1Yy0xNC40MzctMy42Ny0yNi42MjUtMy4zOS0yNi42MjUtMy4zOWwtMi4yNTggMS4wMXYxNDAuODcybDIuMjU4Ljc1M2MxMy42MTQgMCA3My4xNzctNDEuMTMzIDczLjMyMy04NS4yNyAwLTMxLjYyNC0yMS4wMjMtNDUuODI1LTQwLjU1NS01Mi4xOTd6TTE0Ni41MyAxNjQuOGMtMTEuNjE3LTE4LjU1Ny02LjcwNi02MS43NTEgMjMuNjQzLTY3LjkyNSA4LjMyLTEuMzMzIDE4LjUwOSA0LjEzNCAyMS41MSAxNi4yNzkgNy41ODIgMjUuNzY2LTM3LjAxNSA2MS44NDUtNDUuMTUzIDUxLjY0NnptMTguMjE2LTM5Ljc1MmE5LjM5OSA5LjM5OSAwIDAgMC05LjM5OSA5LjM5OSA5LjM5OSA5LjM5OSAwIDAgMCA5LjQgOS4zOTkgOS4zOTkgOS4zOTkgMCAwIDAgOS4zOTgtOS40IDkuMzk5IDkuMzk5IDAgMCAwLTkuMzk5LTkuMzk4em0yLjgxIDguNjcyYTIuMzc0IDIuMzc0IDAgMSAxIDAtNC43NDkgMi4zNzQgMi4zNzQgMCAwIDEgMCA0Ljc0OXoiIGZpbGw9IiNFNTcyMDAiLz48cGF0aCBkPSJNMTAxLjM3MSA3Mi43MDlsLTUuMDIzLTE4LjkwMWMyLjg3NC0xLjgzMiA0Ljc4Ni01LjA0IDQuNzg2LTguNzAxIDAtNS43LTQuNjItMTAuMzItMTAuMzItMTAuMzItNS42OTkgMC0xMC4zMTkgNC42Mi0xMC4zMTkgMTAuMzIgMCA1LjY4MiA0LjU5MiAxMC4yODkgMTAuMjY3IDEwLjMxN0w5NS44IDc0LjM3OGMtMTkuNjA5IDYuNTEtNDAuODg1IDIwLjc0Mi00MC44ODUgNTEuODguNDM2IDQ1LjAxIDU5LjU3MiA4NS4yNjcgNzMuMTg2IDg1LjI2N1Y2OC44OTJzLTEyLjI1Mi0uMDYyLTI2LjcyOSAzLjgxN3ptMTAuMzk1IDkyLjA5Yy04LjEzOCAxMC4yLTUyLjczNS0yNS44OC00NS4xNTQtNTEuNjQ1IDMuMDAyLTEyLjE0NSAxMy4xOS0xNy42MTIgMjEuNTExLTE2LjI4IDMwLjM1IDYuMTc1IDM1LjI2IDQ5LjM2OSAyMy42NDMgNjcuOTI2em0tMTguODItMzkuNDZhOS4zOTkgOS4zOTkgMCAwIDAtOS4zOTkgOS4zOTggOS4zOTkgOS4zOTkgMCAwIDAgOS40IDkuNCA5LjM5OSA5LjM5OSAwIDAgMCA5LjM5OC05LjQgOS4zOTkgOS4zOTkgMCAwIDAtOS4zOTktOS4zOTl6bS0yLjgxIDguNjcxYTIuMzc0IDIuMzc0IDAgMSAxIDAtNC43NDggMi4zNzQgMi4zNzQgMCAwIDEgMCA0Ljc0OHoiIGZpbGw9IiNGRjdGMDAiLz48L3N2Zz4=)](https://platformio.org/lib/search?query=owner:geekmaks) Few of my libraries at [PlatformIO](https://platformio.org/lib/search?query=owner:geekmaks).
-- 🫶 **I’m looking** to collaborate on cool projects about cloud, IoT, Web3, or crypto spheres.
-- ⚡ **Fun fact:** I've started my way from Delphi 😄  in 2001 year at school by creating a small BPM system. (Bet you don't know what the language is). Then I made a websites when PHP was at version 3 🗿
+- [![PlatformIO](https://img.shields.io/badge/-PlatformIO-orange?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTEyOCAwQzkzLjgxIDAgNjEuNjY2IDEzLjMxNCAzNy40OSAzNy40OSAxMy4zMTQgNjEuNjY2IDAgOTMuODEgMCAxMjhjMCAzNC4xOSAxMy4zMTQgNjYuMzM0IDM3LjQ5IDkwLjUxQzYxLjY2NiAyNDIuNjg2IDkzLjgxIDI1NiAxMjggMjU2YzM0LjE5IDAgNjYuMzM0LTEzLjMxNCA5MC41MS0zNy40OUMyNDIuNjg2IDE5NC4zMzQgMjU2IDE2Mi4xOSAyNTYgMTI4YzAtMzQuMTktMTMuMzE0LTY2LjMzNC0zNy40OS05MC41MUMxOTQuMzM0IDEzLjMxNCAxNjIuMTkgMCAxMjggMCIgZmlsbD0iI0ZGN0YwMCIvPjxwYXRoIGQ9Ik0yNDkuMzg2IDEyOGMwIDY3LjA0LTU0LjM0NyAxMjEuMzg2LTEyMS4zODYgMTIxLjM4NkM2MC45NiAyNDkuMzg2IDYuNjEzIDE5NS4wNCA2LjYxMyAxMjggNi42MTMgNjAuOTYgNjAuOTYgNi42MTQgMTI4IDYuNjE0YzY3LjA0IDAgMTIxLjM4NiA1NC4zNDYgMTIxLjM4NiAxMjEuMzg2IiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTE2MC44NjkgNzQuMDYybDUuMTQ1LTE4LjUzN2M1LjI2NC0uNDcgOS4zOTItNC44ODYgOS4zOTItMTAuMjczIDAtNS43LTQuNjItMTAuMzItMTAuMzItMTAuMzJzLTEwLjMyIDQuNjItMTAuMzIgMTAuMzJjMCAzLjc1NSAyLjAxMyA3LjAzIDUuMDEgOC44MzdsLTUuMDUgMTguMTk1Yy0xNC40MzctMy42Ny0yNi42MjUtMy4zOS0yNi42MjUtMy4zOWwtMi4yNTggMS4wMXYxNDAuODcybDIuMjU4Ljc1M2MxMy42MTQgMCA3My4xNzctNDEuMTMzIDczLjMyMy04NS4yNyAwLTMxLjYyNC0yMS4wMjMtNDUuODI1LTQwLjU1NS01Mi4xOTd6TTE0Ni41MyAxNjQuOGMtMTEuNjE3LTE4LjU1Ny02LjcwNi02MS43NTEgMjMuNjQzLTY3LjkyNSA4LjMyLTEuMzMzIDE4LjUwOSA0LjEzNCAyMS41MSAxNi4yNzkgNy41ODIgMjUuNzY2LTM3LjAxNSA2MS44NDUtNDUuMTUzIDUxLjY0NnptMTguMjE2LTM5Ljc1MmE5LjM5OSA5LjM5OSAwIDAgMC05LjM5OSA5LjM5OSA5LjM5OSA5LjM5OSAwIDAgMCA5LjQgOS4zOTkgOS4zOTkgOS4zOTkgMCAwIDAgOS4zOTgtOS40IDkuMzk5IDkuMzk5IDAgMCAwLTkuMzk5LTkuMzk4em0yLjgxIDguNjcyYTIuMzc0IDIuMzc0IDAgMSAxIDAtNC43NDkgMi4zNzQgMi4zNzQgMCAwIDEgMCA0Ljc0OXoiIGZpbGw9IiNFNTcyMDAiLz48cGF0aCBkPSJNMTAxLjM3MSA3Mi43MDlsLTUuMDIzLTE4LjkwMWMyLjg3NC0xLjgzMiA0Ljc4Ni01LjA0IDQuNzg2LTguNzAxIDAtNS43LTQuNjItMTAuMzItMTAuMzItMTAuMzItNS42OTkgMC0xMC4zMTkgNC42Mi0xMC4zMTkgMTAuMzIgMCA1LjY4MiA0LjU5MiAxMC4yODkgMTAuMjY3IDEwLjMxN0w5NS44IDc0LjM3OGMtMTkuNjA5IDYuNTEtNDAuODg1IDIwLjc0Mi00MC44ODUgNTEuODguNDM2IDQ1LjAxIDU5LjU3MiA4NS4yNjcgNzMuMTg2IDg1LjI2N1Y2OC44OTJzLTEyLjI1Mi0uMDYyLTI2LjcyOSAzLjgxN3ptMTAuMzk1IDkyLjA5Yy04LjEzOCAxMC4yLTUyLjczNS0yNS44OC00NS4xNTQtNTEuNjQ1IDMuMDAyLTEyLjE0NSAxMy4xOS0xNy42MTIgMjEuNTExLTE2LjI4IDMwLjM1IDYuMTc1IDM1LjI2IDQ5LjM2OSAyMy42NDMgNjcuOTI2em0tMTguODItMzkuNDZhOS4zOTkgOS4zOTkgMCAwIDAtOS4zOTkgOS4zOTggOS4zOTkgOS4zOTkgMCAwIDAgOS40IDkuNCA5LjM5OSA5LjM5OSAwIDAgMCA5LjM5OC05LjQgOS4zOTkgOS4zOTkgMCAwIDAtOS4zOTktOS4zOTl6bS0yLjgxIDguNjcxYTIuMzc0IDIuMzc0IDAgMSAxIDAtNC43NDggMi4zNzQgMi4zNzQgMCAwIDEgMCA0Ljc0OHoiIGZpbGw9IiNGRjdGMDAiLz48L3N2Zz4=)](https://platformio.org/lib/search?query=owner:geekmaks) 
+🏗 A few of my libraries at [PlatformIO](https://platformio.org/lib/search?query=owner:geekmaks).
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://geekmaks.medium.com) 👨‍💻 Sometimes I'm writing for "Frontend Weekly" and "The Startup" at [Medium](https://geekmaks.medium.com/).
+- 🫶 **I’m looking** to collaborate on cool projects about cloud computing, IoT, Web3, blockchain, distributed computing and storage, databases, or social impact spheres.
 
-<details>
-  <summary><h3> 🙌🏻 Made with this hands (TL;TR spoiler 👆)</h3></summary>
+<img src="https://raw.githubusercontent.com/geekbrother/geekbrother/main/thatsme.jpg" height="333">
+
+## 🌱 I’m mostly and recently working with:
+
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) **2.5 years**: 
   
-  - **[VDS64](https://vds64.com)** Hosting Platform Administration for virtual containers OpenVZ (UI JQuery + Bootstrap, Never version uses Vue, API REST, Backend PHP and HHVM + Python + Bash scripts, DB MySQL).
-    - 👨‍ Act as a full-stack developer and CTO later.
-    - 🟢 Running
-  - **[SimpleHM](https://cc.vds64.com)** Server management GUI for Centos VPS's (UI React + Bootstrap, API REST, Backend C++11 + Bash scripts).
-    - 👨‍ Act as a CTO/Lead.
-    - 🟢 Running
-  - **ServerPanel.io** Server management GUI and app marketplace for Bare-metal and vps's (UI React, Backend Golang, API GraphQL, DB PostgreSQL + InfluxDB).
-    - 👨‍ Act as a CTO/Co-founder/Backend Team Lead.
-    - ✖️ Stopped after 1.5 years of work due to lack of resources.
-  - **[BOP](http://bop.geeks.codes)** Business Operation Platform. This is an ERP/CRM system based on Redmine wich was partly rewrited by our team, multiple plugins created to meet certain business automation tasks. Also MobileApp created using ReactNative. Python and nodeJS microservices for notifications, analytics, telegram and mobile APP integration.
-    - 👨‍ Act as a CTO/Co-founder.
-    - 🟢 Running
-    - **[Slavena.pro](https://slavena.pro)** BOP based platform for large printing and package producer.
-  - **[Slavena.app](https://play.google.com/store/apps/details?id=com.geeksteam.slavena&hl=en_NZ)** Android mobile app for workers to automate business processes and integrate with Slavena.pro BOP platform (React Native/Expo, API REST). 
-    - 👨‍ Act as a CTO/Lead.
-    - 🟢 Running
-  - **[Nashdom.app](http://nashdom.relly.me/)** Mobile App for control smart home apartments gates and doors, send and pay invoices (React Native/Expo, API GraphQL, Backend NodeJS, Database MongoDB, MQ RabbitMQ).
-    - 👨‍ Act as a CTO/Co-founder.  
-    - 🟢 Running
-  - **[Plastify.tech](https://plastify.tech)** Small batch plastic cases/parts casting for IoT and smart devices. BOP platform as an ERP/CRM.
-    - 👨‍ Act as a CTO/Founder.
-    - 🟢 Running
-  - **Bitty (Working name)** Cryptocurrency and 2FA wallet based on total air-gapped principle (Hardware ESP32 MCU + hardware key storage by microchip, GUI Vue, API REST, Firmware C++ PlatformIO with MicroPython SDK for developers, Cloud: Backend NodeJS, DB PostgreSQL).
-    - 👨‍ Act as a CTO/Lead/Co-founder.
-    - ⚪️ Paused on hardware part assembling due to lack of resources
-  - **[Relly.me](http://relly.me)** Smart home system for apartment blocks, hotels and office buildings with software (Mobile App), Backend, and Hardware parts.
-    - 👨‍ Act as a CTO/Lead/Co-founder.
-    - 🟡 Under active development, already partly running.
-    - At the moment there are three hardware items in production: 
-      - Small one port wifi relay module based on esp8266 (Firmware: C++/PlatformIO + VueJS for webgui).
-      - 8 port smart relay module with encryption and display based on esp32 (Firmware: C++/PlatformIO + VueJS for webgui).
-      - Smart wifi doorbell based on esp32 with camera module (Firmware: C++/PlatformIO).
-    - User Mobile IOS and Android App (ReactNative/Expo, API GraphQL).
-    - Backend based on NodeJS service with Cloudflare workers and KV storage. Database MongoDB for user data using Realm.io and TimeScaleDB for logging and analytics. MQ RabbitMQ.
-  - **[Comm.app](https://comm.app)** Web3 Discord and own keyservers.
-    - 👨‍ Act as a Core team full-stack engineer.
-    - 🟡 Under active development, already beta running.
-    - User Mobile IOS and Android App (JS ReactNative, C++ JSI modules for crypto and etc.).
-    - Backend based on the NodeJS, MySQL Database (for now).
+  Made a fleet of backends in Rust and their integrations into NodeJS, ReactNative, and C++ for [Comm.app](https://github.com/CommE2E/comm) (NY-based startup, web3 discord alternative with e2e). Heavily used [Tokio.rs](https://tokio.rs) (Tonic, Axum, Tracing), [napi-rs](https://napi.rs/), [cxx.rs](https://cxx.rs/). 
   
-</details>    
+  Created a [cxx-corrosion-cmake](https://github.com/geekbrother/cxx-corrosion-cmake) which is one of the examples in the [cxx.rs official documentation](https://cxx.rs/build/cmake.html).
 
-### 🌱 I’m currently (and mostly) working with:
--  **JS / TypeScript / Flow**,
--  **React / ReactNative / Expo / NodeJS**,
--  **C++ 11/17/20**,
--  **Rust**,
--  **Go**,
--  MCU programming (platformIO, C / C++),
--  and a bunch of other things include Chinese 🤠
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) **3 years:**
 
-### 💬 I have experience in / Ask me about:
+  Backend for [ServerPanel.io](https://serverpanel.io) (SF-based startup, Virtual Machines, and cloud automation), and [Relly.me](https://github.com/rellydev) (IoT smart locks for homes, public parkings, and offices). Heavily used [gorilla/mux](https://github.com/gorilla/mux) especially for websockets and [gorm](https://github.com/go-gorm/gorm).
+
+-  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **~7 years:** 
+
+    Rewriting C++ backend services into Rust in [Comm.app](https://comm.app), firmware for MCUs (ESP, STM) in [Relly.me](https://relly.me), microservices in [VDS64.com](https://vds64.com). Heavily used [Folly](https://github.com/facebook/folly) from Facebook and [Boost](https://www.boost.org/).
+
+- ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) **~7 years:**
+  
+  Integrating C++ and Rust libraries into NodeJS backend services in [Comm.app](https://comm.app). ReactNative Mobile apps for [Relly.me](https://relly.me), [Slavena.pro](https://slavena.pro). Backend services in [VDS64.com](https://vds64.com) and [Relly.me](https://relly.me). Used [Redux](https://redux.js.org/) and [mobx-state-tree](https://mobx-state-tree.js.org/intro/welcome) for state management in ReactNative applications.
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Flow](https://img.shields.io/badge/Flow-EF873F?style=flat-square) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) **~15 years:**
+  
+  I started with vanilla JS when I worked as a web developer at the start of my career. Then JQuery and goes on... I used Flow when working with the [Comm.app](https://comm.app) codebase while integrating the Rust codebase into the ReactNative mobile app. TypeScript was partially used in ReactNative in [Relly.me](https://relly.me).
+
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) **~ 10 years with SQL databases:**
+
+  I worked with MySQL since my first project in my life, then switched to PostgreSQL. TimeScale was used for time series data in IoT projects and Cloud Automation for statistics. Encrypted SQLite as an embedded database was used in [Comm.app](https://comm.app). Also, I created and maintained [SQLCipher amalgamation package](https://github.com/CommE2E/sqlcipher-amalgamation) for use in iOS builds.
+
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white) ![AWS DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white) **~7 years with NoSQL databases:**
+
+  DynamoDB was used in a [Comm.app](https://comm.app) project as a messaging storage layer. Heavily used MongoDB in [Relly.me](https://relly.me) project for storing user-defined data. Redis was used in [Comm.app](https://comm.app) for caching and in [VDS64.com](https://vds64.com) as a caching layer and pub-sub. InfluxDB was used as a time series database for statistics in IoT and cloud automation in [ServerPanel.io](https://serverpanel.io).
+
+- ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white) **~7 years:**
+
+  RabbitMQ is a main messages bus in [Comm.app](https://comm.app) where I used it with NodeJS, C++, and Rust microservices. It's heavily used in [VDS64.com](https://vds64.com) facilities and as a primary communication layer for IoT devices in [Relly.me](https://relly.me).
+
+- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flate-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat_square&logo=vercel&logoColor=white) ![CloudFalare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) **~7 years with public cloud services:**
+
+  Deploying to AWS (ECS, S3, DynamoDB) using the Terraform when working in [Comm.app](https://comm.app). Used Cloudflare Edge Functions and KV store in [VDS64.com](https://vds64.com), [Relly.me](https://relly.me). Deployed to Vercel [Slavena.pro](https://slavena.pro).
+
+- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-6DA8AE?style=flat-square) ![protobuf](https://img.shields.io/badge/protobuf-45965C?style=flat-square) ![REST](https://img.shields.io/badge/REST-0E294C?style=flat-square) ![websocket](https://img.shields.io/badge/websocket-E66C2C?style=flat-square)
+
+  I have been using REST since the first webdev project, also I have used websocket if we need a subscription. GraphQL was first used in the NashDom.app project for the backend and React Native mobile application communication including subscription. gRPC with protobuf is used in the [Comm.app](https://comm.app) project where I used it for the microservices and backend -> React Native communication including bidirectional streams.
+
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white) **~10 years with CI, CD:**
+
+  Used Jenkins for years until GitHub Actions was released and switched to it then.
+
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white) ![Phabricator](https://img.shields.io/badge/phabricator-457CB4?style=flat-square) ![Graphite](https://img.shields.io/badge/graphite-000000?style=flat-square) ![Aviator](https://img.shields.io/badge/aviator.co-F9DD73?style=flat-square) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) **~10 years with project management and code review tools:** 
+
+  Woking with the PRs (GitHub PR), stacked PRs (Aviator.co), and stacked Diffs (Phabricator, Facebook, and Google practice) approaches. Personally, I'm sure that stacked Diffs or stacked PRs following the **KISS** principle are the best approaches for code review. Jira or any other task-tracking software including Notion is totally on my list.
+
+- ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-E85237?style=flat-square) ![LogRocket](https://img.shields.io/badge/LogRocket-6F4CB6?style=flat-square) **~7 years with monitoring and metrics:**
+
+  Grafana was used for monitoring, logs aggregation (using Loki), and metrics for backend services in most of my projects. I used Sentry for the frontend and mobile apps but switched to use LogRocket instead for ReactNative.
+
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=flat-square&logo=NixOS&logoColor=white) **~5 years with app containerizations:**
+
+  I grew up in a hosting company and we heavily used our VMs and deployed the code using the repo sync and build tools such as PM2. But in recent years Docker has been heavily used everywhere, so I used it 100%. Also, I've used [Nix](https://nixos.org/) in my recent work in [Comm.app](https://comm.app) for reproducible builds and deployments.
+
+## 🗿 Work principles and methods: 
+
+I'm a big fan of the **TDD**, **BDD** everywhere it's possible. When I first attended a meetup at Twitter HQ, I
+really fell in love with the **Pizza Margherita** principle which is actually a **KISS** + **YAGNI**
+principles. Following **SOLID** and **DRY** is a must. 
+
+When speaking in team management I'm always following
+a **responsibility segregation** principle instead of task segregation among the team members.
+
+## 💬 I have other experience in / ask me about:
+
   - **Product Architect and Design.**
   - **Languages:** Vanilla JavaScript, TypeScript, Flow, Python, C, C++/11/17/20, Rust, Ruby, Go, Dart, Perl, Bash Script, PHP (Worked a lot in the past but not using since 7.1 version).
   - **Frameworks:** 
@@ -79,74 +99,85 @@
   - **Cloud:** Cloudflare KV storage, Cloudflare Workers, Google cloud containers, AWS Lambda, AWS S3, AWS DynamoDB, AWS ECS, Supabase.
   - **APIs:** REST, GraphQL (Apollo), Binary (bson, protobuff), gRPC.
   - **Databases and MQs:** MySQL, PostgreSQL(inc. TimescaleDB), MongoDB, DynamoDB, InfluxDB, Casandra, RabbitMQ/Kafka, Redis.
-  - **Linux Centos, Debian, Ubuntu, Nix:** Bash, ssh, vim, httpd, nginx, iptables, Asterisk(VoIP) and etc which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
+  - **Linux Centos, Debian, Ubuntu, Nix:** Bash, SSH, vim, httpd, nginx, iptables, Asterisk(VoIP) and etc. which I can't remember (I am working a bunch of years at hosting service 😄  and its automation).
   - **2D:** Vector and bitmap using Adobe Illustrator, Affinity Designer, Gimp, Photoshop.
   - **3D modeling:** Product modeling using Blender and FreeCAD.
   - **Electric circuit and PCB:** PCB modeling using EasyEDA.
 
-### 🧙🏼‍♂️ Team Management:
-I prefer managing a small team of developers (up to 10) or managing 2nd layer Team Leads of brunches to achieve the best results. Minimum meetings and more results. Monday and Thursday meetings are the best suited for development in my practice.
+## 🥱 I don't like:
 
-### 🥱 I don't like:
   - Svelte (terrible experience in production, [read my experience](https://medium.com/front-end-weekly/svelte-3-new-vue-killer-but-not-today-8de9c88c186b)),
-  - Java (old dinosaur),
+  - Java (I'm sure there are better options available),
   - C# (mhe...),
-  - People that don't love what they do.
+  - People who don't love what they do.
 
-### 📫 How to reach me:
+## 🧑‍🎓 Educations:
+
+  - ![NURE](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUGCAn/xAAtEAABAwQBAgQGAgMAAAAAAAABAgMEBQYHESEAEhMxQVEIFSJCUmEUgSM0of/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAIEBf/EAB8RAAEDBAMBAAAAAAAAAAAAAAEAAhEDITFBEhMiQv/aAAwDAQACEQMRAD8A9AstZgVZVQp1u0OAa7eFW/06cg6ShPO3XVfagaPJ/E+3UeLhW4rqQJd53zV3JKxswqE8YcZrfoO3lWvdXRjaeGKJ8St15Auy55VRSlqtO0iCmDI8EoYYSkeejvfcOPLYPUWdeV0/D7WHcQW8+mZKqb7Qt6oy3kKVFadUQoOdw5UCONjRJ3o+R3NbHlhuua5/3UEt0mmXg+v2whUuzb7rMeU2NiLW3zNjO69FBXKd+456pYoy+9dlYn2tclP+RXnTEhciETtt9v0eZPqk7/6P6lDGGVFNIJzE6lRSCpIt+MQDrnR35dB1WvysM3tBrVWfjTbisW4o1Gm1eA2EN1CFLDm0qA470FBBA4BcPAPVY7AZMo8jTILRAW2xpfQw3eGYLQlwJk2oR5zlyUinwGVPPz2H0pHYygAlRCggH27iToJJAZbbj10m5KrlHDeS67c1YmpkplUujqaTBabP+NtlalJUNb545A67DzXguHlb5fU4NQfty8aQrvpVeiAeIwfPtUPvbPqk+59+jqLnXLWMCKZf2K6rdPhfSiv2SgS25IHkpTHCkH33r9DpYfsZTyy98IXXS7NCh4mGs6OH0Km3SB/Yc6oxrioV316ycRWnjm5bHK60xWqmi4Y4aedjNhRU4olalqJIHKvx0OliVn3K2Siql2BiWr26479Cq5eqP4TUYfkGTtSz+hv9jrfYTwTHxhJqFcq9Seua96vo1GuSRpS/Xw20/Y2OOP0Pbqc9lDrBwv/Z) 
+  ***2002 - 2007***: [Kharkiv National University of Radio Electronics](https://nure.ua/en/) (Ukraine, Kharkiv) - Computer Science - Master's Degree.
+  - ![Yandex School of Data Analysis](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAQACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYECf/EACkQAAIBAwMEAQQDAQAAAAAAAAECAwQFEQYIEgAHEyExCRVhgSIyQYL/xAAVAQEBAAAAAAAAAAAAAAAAAAAGBf/EACURAAIABQMDBQAAAAAAAAAAAAERAgMEBSEAEhMxMlEUFSJBgf/aAAwDAQACEQMRAD8A6gXbUNHZamhgqpOD1kvij/Bx8n8ZwP8AodGW4vcvYNulnt01zo6m63S5M4o7fTELzCcebu59Io5KPgklhgEAkUmrO3FXqq7vWSXVYkACRReHPBR/meXv3k/vo53J7UxuEsGn1l1B9s1BZVkjjrTTeSKojcLlXXkCDlFIYE4y38TkYHyKy8zqmrlTabZLhI4onCdw6FgRFPuhYGCjkaX2eRZfWU3uc08RfIhFjBI6BpoFZ8edZRva0rU7ddV91qO1VtQmmVT7hZGkRKhXZkUcW9gqeeQ2BnifQII6JNu/1VtMbh+8unO3tBoO7WirvTzIlbU1kTxxeOCSY5UDJyIyP31dU2xKkt+2XXPbCl1KFvWrkjFZfpKMlI+DqyKsIf2qgN8tklyfQwoHNr30oq/br320t3Em7lU99jsjzubelmaAzeSnlh/uZ2xjyZ+D8Y6UU5mmVDzd33qVeobfDcJwtRJkP4ktr9ym08pPOv/Z)
+  ***2011 - 2011***: [Yandex School of Data Analysis](https://academy.yandex.com/dataschool) (Russia, Moscow) - Big data storage and analysis course and workshops. Casandra, Hadoop, MapReduce, Apache Spark. Working with time series data using InfluxDB, columnar databases.
+  - A lot of C++ books,
+  - More than 10+ years of self-education, 
+
+## 🌁 Work timeline:
+
+  - ***2002 - 2006***: Kharkiv Information System, 📍 Ukraine, Kharkiv / Hybrid Part-time (Web sites development). 
+    
+    Full-stack web developer. Made a big bunch of websites using PHP, MySQL, and JQuery as a full-stack developer. I made a small framework called [ngMySQL](https://github.com/geekbrother/ngMySQL) at that time to bind Angular and MySQL for the admin web-ui.
+
+  - ***2006 - 2009***: Webspace.com.ua, 📍 Ukraine, Kharkiv / Onsite (Shared hosting).
+    
+    Full-stack web developer and Linux administrator (Part-time).
+
+  - ***2010 - 2019***: VDS64.com, 📍 Ukraine, Kyiv / Onsite ➡️ Part-time remote (Virtual machines and bare-metal servers hosting).
+  
+    I joined the company as a full-stack developer with PHP and MySQL and then grew to the system engineer and company CTO. R&D for the cloud control software and hardware integration. Own cloud expansion and distribution to three countries (Ukraine, Germany, Russia). Managed the engineering team (all remote): frontend developers, backend developers, server hardware engineers, and heavy-duty 24x7 support team. Learned and used in production software created in C++, NodeJS, and Golang. Engineered critical distributed systems like DNS service.
+
+  - ***2015 - 2017***: ServerPanel.io, 📍 USA, Bay Area, San Francisco / Onsite (OpenVZ and proxmox cloud automation software).
+  
+    Backend team lead. Acting as a full-stack developer as well. Team management: frontend (Angular then React), backend (mostly Golang with a minor in Python and DevOps). Not so much can be shared because of NDA. The company was acquired on the final stage of the development.
+
+  - ***2017 - 2019***: NashDom.app, 📍 Ukraine, Kyiv / Hybrid (IoT automation for households and offices).
+  
+    Team Lead, founding engineer. Frontend and Mobile Application was developed using React/React Native. Backend services consist of Golang and NodeJS distributed microservices. We used RabbitMQ as the main communication bus and PostgreSQL for the user data storage. InfluxDB was used for monitoring and analysis. We processed nearly 2-10 requests per second of the user's activity.
+
+  - ***2020 - 2021***: Relly.me, 📍 Germany, Berlin / Remote, Hybrid (Successor of the NashDom.app with the own hardware and firmware). 
+  
+    Founding engineer. Additionally to the NashDom.app we started to R&D the hardware for home and office automation. R&D included PCB design, C++ MCU (ESP and STM) firmware, plastic cases design and manufacturing, hardware assembly and packaging, and distribution across existing customers. Revamping the customer's mobile app using the updated ReactNative and new UI design. Switching to MongoDB for user data along with PostgreSQL and TimeScale for time-series data. The backend was refactored in Golang and NodeJS to fix previous design flaws.
+
+  - ***2021 - ...***: [Comm.app](https://comm.app), 📍 USA, New York / Remote, Hybrid (Web3 distributed Discord alternative with e2e). 
+  
+    Senior Software Engineer. Core team member full-stack generalist engineer with the shift to the backend. Rewriting legacy C++ and NodeJS microservices codebase into Rust. Creating unified Rust libraries and connecting them to React Native mobile application codebase and NodeJS microservices. Encrypted messaging storage using SQLite and AWS DynamoDB. New messages delivery architecture based on the message broker (RabbitMQ) and the new Rust microservices.
+
+</details>
+
+## 🛵 🧘‍♂️ Hobby and personal life:
+
+- While I'm not coding or assembling something I like 🚴‍♂️ cycling, 🏄‍♂️ surfing (thanks to Bali), and 🏂 snowboarding (very rare, as I prefer the sun). 
+- I love traveling, this is my biggest investment for now. It's great to know the world from different angles to make something new for the people.
+  - ✈️  **My visited countries list:** USA, UAE, Qatar, Korea, China, Egypt, Turkey, Greece, Cyprus, Italy, Portugal, France, Austria, Hungary, Poland, Spain, Netherlands, Germany, Russia, Thailand, Cambodia, Vietnam, Indonesia, India, Dominican Republic, Malaysia, Singapore, Sri Lanka.
+- Sometimes in the past, I was dreaming of becoming a pilot and spent a lot of hours behind the B737 simulator 😅
+- I have a poodle dog 🐶
+- I had burned out 🔥 in the past and that's why I started to read a lot about psychology and mental health, especially while working remotely. I helped myself in the past and try to help other people and colleagues
+ with that.
+- I speak 🇺🇸 English (C1, lived in the US for more than a year), 🇺🇦 Ukrainian (native), 🇷🇺 Russian (native), 🇵🇱 Polish (basic), 🇭🇺 Hungarian (very basic), 🇨🇳 Chinese (learned for 6 months and dropped it).
+- I'm based in Cyprus now 🛋 🇨🇾 but moving to Budapest, Vienna, or Asia for a winter.
+
+## 🙋🏻‍♂️ Maybe we met at meetups:
+
+- (USA) Github Universe (2015, 2016, 2018), 
+- (USA) Google I/O (2016), 
+- (USA) TechCrunch Disrupt (2016), 
+- (USA) Twitter HQ San Francisco Machine Learning meetups (2018), 
+- (USA) Uber HQ San Francisco Meetups (2016), 
+- (Ukraine) Ruby On Rails meetup at Fabrika.space (2019), 
+- (Ukraine) JS devils at Fabrika.space (2019).
+- (Poland) App.js at Krakow (2022).
+
+## 📫 How to reach me:
+
   - geekmaks@gmail.com,
   - [Twitter](https://twitter.com/geek_maks), 
   - [Telegram](https://t.me/Zaratustrik),
   - [LinkedIn](https://www.linkedin.com/in/max-geek/).
-
-### 🧑‍🎓 Educations:
-  - 2002. National Law University of Ukraine - Master Degree **Lawyer** (Intellectual property),
-  - 2006. Kharkiv National University of Radio Electronics (Ukraine) - Master Degree **Software Engineer** 
-  - Treehouse PHP, Python and JS courses,
-  - A lot of C++ books,
-  - More than 10+ years of self education, 
-
-<details>
-  <summary><h3> 🤠 Work timeline (TL;TR spoiler 👆)</h3></summary>
-
-  - 2002 - 2006: Kharkiv Information System: WebDeveloper, made a big bunch of websites using PHP+MySQL+Jquery as full-stack developer. I've made a small framework called [ngMySQL](https://github.com/geekbrother/ngMySQL) to bind Angular and MySQL for the admin web-ui's.
-  - 2006 - 2009: Webspace.com.ua: WebDeveloper + Linux Administrator (Part-time).
-  - 2007 - 2009: Arbitrage court of Kharkiv District (Ukraine). Judge assitant. Intellectual property, Business litigations.
-  - 2010 - 2019: VDS64.com: CTO, Acting as a full-stack developer too. Administration system development and maintenance. Cloud control software development and hardware integration. Own cloud expansion to three countries (Ukraine, Germany, Russia). Team management (all remote): Two frontends Junior Developers, One backend Junior Developer, One server hardware engineer, support team: Four Linux system administrators 24x7 operation.
-  - 2015 - 2017: ServerPanel.io: Team Lead, One of investors, Acting as a full-stack developer too. Team management: One frontend Middle Developer (Angular, React)(Office), One frontend junior Developer (React)(Office), One backend middle developer (Golang, Python, DevOps)(Remote), One backend junior developer (Golang)(Office).
-  - 2017 - 2019: NashDom.app: Team Lead, One of investors, Acting as a full-stack developer too. Team management: One frontend Junior Developer (ReactNative)(Office), One backend middle developer(NodeJS)(office), One Graphic/UI/Motion Designer(Remote), One hardware engineer (MCUs, C++).
-  - 2020 - 2021: Relly.me: CTO, Acting as a full-stack developer part-time. Team management: One frontend Junior Developer (ReactNative, NodeJS)(Office), One backend middle developer(NodeJS)(office), One hardware engineer (MCUs, C++, PlatformIO), One plastic case assembly and packaging, One 3D parts designer (Hardware, Circuits), One Graphic/Motion Designer(remote).
-  - 2021 - ...: Comm.app: Core team full-stack engineer (JS, C++, Rust, Infrastructure).
-
-</details>
-
-### 💪 Work principles and methods: 
-You need to know your team's work and how things and specific technology work! That's why in most cases when I've been Founding Engineer I'm acting as a full-stack developer too (part-time only, management is a first priority). Smaller, more motivated, and smarter team - my focus on the projects.
-
-I prefer to choose between the Agile and Waterfall method depending on the project and its development stage using Jira, Redmine, Github Projects, and Issues.
-
-### 🛵  Hobby: 
-- While I'm not coding or assembling something new all in wires, I like 🚴‍♂️ cycling, 🏄‍♂️ surfing (thanks to Bali) and 🏂 snowboarding (very rare if to be honest, I prefer the sun). I like travel and this is my biggest investment now. You need to know the world from different angels to make something new for the people.
-- Sometime in the past I was dreaming to become a pilot and spent a lot of hours behind the B737 simulator, so I can land the plane 😅
-- ✈️  **My visited countries list:** USA, UAE, Qatar, Korea, China, Egypt, Turkey, Greece, Cyprus, Italy, Portugal, France, Austria, Hungary, Poland, Spain, Netherlands, Germany, Russia, Thailand, Cambodia, Vietnam, Indonesia, India, Dominican Republic, Malaysia, Singapore, Sri Lanka.
-
-### 🙋🏻‍♂️ You can meet me (saw me) at meetups: 
-- (USA) Github Universe (2015, 2016, 2018), 
-- Google I/O (2016), 
-- TechCrunch Disrupt (2016), 
-- Twitter HQ San Francisco Machine Learning meetups (2018), 
-- Uber HQ San Francisco Meetups (2016), 
-- (Ukraine) Ruby On Rails meetup at Fabrika.space (2019), 
-- JS devils at Fabrika.space (2019).
-- App.js at Krakow (2022).
-
-### Connect with me:
-<p align="left">
-<a href="https://twitter.com/geek_maks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="geek_maks" height="30" width="40" /></a>
-<a href="https://geekmaks.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="geek_maks" height="30" width="40" /></a>
-<a href="https://t.me/Zaratustrik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="geek_maks" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/max-geek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="geek_maks" height="30" width="40" /></a>
-<a href="https://www.instagram.com/maxikovmaxik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geek_maks" height="30" width="40" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/geekbrother/geekbrother/main/thatsme.jpg" width="50%"/>
